@@ -14,3 +14,9 @@
 # Maven
 log/
 target/
+
+# API Keys/Login Info
+config.json
+
+# Misc.
+errorlog.txt
